@@ -7,7 +7,7 @@ import memories from './images/memories.png';
 
 import Posts from "./components/Posts/Posts";
 import Form from "./components/Form/Form";
-import getPosts from './actions/posts';
+import getPosts from "./actions/getPosts";
 
 
 
